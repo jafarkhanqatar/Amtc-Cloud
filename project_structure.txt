@@ -1,0 +1,1491 @@
+Folder PATH listing for volume Windows-SSD
+Volume serial number is 025E-7DDB
+C:\AMTC CLOUD
+¦   .gitignore
+¦   build.gradle.kts
+¦   build.gradle.kts.txt
+¦   cd
+¦   Configure
+¦   Get
+¦   gradle.properties
+¦   gradlew
+¦   gradlew.bat
+¦   local.properties
+¦   notepad
+¦   project_structure.txt
+¦   Resolve
+¦   Run
+¦   settings.gradle.kts
+¦   
++---.gradle
+¦   ¦   config.properties
+¦   ¦   file-system.probe
+¦   ¦   
+¦   +---8.10.2
+¦   ¦   ¦   gc.properties
+¦   ¦   ¦   
+¦   ¦   +---checksums
+¦   ¦   ¦       checksums.lock
+¦   ¦   ¦       md5-checksums.bin
+¦   ¦   ¦       sha1-checksums.bin
+¦   ¦   ¦       
+¦   ¦   +---dependencies-accessors
+¦   ¦   ¦   ¦   gc.properties
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---c0b3178410226b1b284881c97c50ac1100fbcf81
+¦   ¦   ¦       ¦   metadata.bin
+¦   ¦   ¦       ¦   
+¦   ¦   ¦       +---classes
+¦   ¦   ¦       ¦   +---org
+¦   ¦   ¦       ¦       +---gradle
+¦   ¦   ¦       ¦           +---accessors
+¦   ¦   ¦       ¦               +---dm
+¦   ¦   ¦       ¦                       LibrariesForLibs$AndroidPluginAccessors.class
+¦   ¦   ¦       ¦                       LibrariesForLibs$AndroidxCoreLibraryAccessors.class
+¦   ¦   ¦       ¦                       LibrariesForLibs$AndroidxLibraryAccessors.class
+¦   ¦   ¦       ¦                       LibrariesForLibs$BundleAccessors.class
+¦   ¦   ¦       ¦                       LibrariesForLibs$KotlinPluginAccessors.class
+¦   ¦   ¦       ¦                       LibrariesForLibs$PluginAccessors.class
+¦   ¦   ¦       ¦                       LibrariesForLibs$VersionAccessors.class
+¦   ¦   ¦       ¦                       LibrariesForLibs.class
+¦   ¦   ¦       ¦                       LibrariesForLibsInPluginsBlock$AndroidPluginAccessors.class
+¦   ¦   ¦       ¦                       LibrariesForLibsInPluginsBlock$AndroidxCoreLibraryAccessors.class
+¦   ¦   ¦       ¦                       LibrariesForLibsInPluginsBlock$AndroidxLibraryAccessors.class
+¦   ¦   ¦       ¦                       LibrariesForLibsInPluginsBlock$BundleAccessors.class
+¦   ¦   ¦       ¦                       LibrariesForLibsInPluginsBlock$KotlinPluginAccessors.class
+¦   ¦   ¦       ¦                       LibrariesForLibsInPluginsBlock$PluginAccessors.class
+¦   ¦   ¦       ¦                       LibrariesForLibsInPluginsBlock$VersionAccessors.class
+¦   ¦   ¦       ¦                       LibrariesForLibsInPluginsBlock.class
+¦   ¦   ¦       ¦                       
+¦   ¦   ¦       +---sources
+¦   ¦   ¦           +---org
+¦   ¦   ¦               +---gradle
+¦   ¦   ¦                   +---accessors
+¦   ¦   ¦                       +---dm
+¦   ¦   ¦                               LibrariesForLibs.java
+¦   ¦   ¦                               LibrariesForLibsInPluginsBlock.java
+¦   ¦   ¦                               
+¦   ¦   +---executionHistory
+¦   ¦   ¦       executionHistory.bin
+¦   ¦   ¦       executionHistory.lock
+¦   ¦   ¦       
+¦   ¦   +---expanded
+¦   ¦   +---fileChanges
+¦   ¦   ¦       last-build.bin
+¦   ¦   ¦       
+¦   ¦   +---fileHashes
+¦   ¦   ¦       fileHashes.bin
+¦   ¦   ¦       fileHashes.lock
+¦   ¦   ¦       resourceHashesCache.bin
+¦   ¦   ¦       
+¦   ¦   +---vcsMetadata
+¦   +---buildOutputCleanup
+¦   ¦       buildOutputCleanup.lock
+¦   ¦       cache.properties
+¦   ¦       outputFiles.bin
+¦   ¦       
+¦   +---kotlin
+¦   ¦   +---errors
+¦   ¦   +---sessions
+¦   +---vcs-1
+¦           gc.properties
+¦           
++---.idea
+¦   ¦   .gitignore
+¦   ¦   assetWizardSettings.xml
+¦   ¦   compiler.xml
+¦   ¦   deploymentTargetSelector.xml
+¦   ¦   gradle.xml
+¦   ¦   kotlinc.xml
+¦   ¦   migrations.xml
+¦   ¦   misc.xml
+¦   ¦   runConfigurations.xml
+¦   ¦   workspace.xml
+¦   ¦   
+¦   +---caches
+¦           deviceStreaming.xml
+¦           
++---app
+¦   ¦   .gitignore
+¦   ¦   build.gradle.kts
+¦   ¦   proguard-rules.pro
+¦   ¦   
+¦   +---build
+¦   ¦   +---generated
+¦   ¦   ¦   +---res
+¦   ¦   ¦       +---pngs
+¦   ¦   ¦       ¦   +---debug
+¦   ¦   ¦       +---resValues
+¦   ¦   ¦           +---androidTest
+¦   ¦   ¦           ¦   +---debug
+¦   ¦   ¦           +---debug
+¦   ¦   +---intermediates
+¦   ¦   ¦   +---aar_metadata_check
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   +---checkDebugAarMetadata
+¦   ¦   ¦   ¦   +---debugAndroidTest
+¦   ¦   ¦   ¦       +---checkDebugAndroidTestAarMetadata
+¦   ¦   ¦   +---annotation_processor_list
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   +---javaPreCompileDebug
+¦   ¦   ¦   ¦   ¦           annotationProcessors.json
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---debugAndroidTest
+¦   ¦   ¦   ¦   ¦   +---javaPreCompileDebugAndroidTest
+¦   ¦   ¦   ¦   ¦           annotationProcessors.json
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---debugUnitTest
+¦   ¦   ¦   ¦       +---javaPreCompileDebugUnitTest
+¦   ¦   ¦   ¦               annotationProcessors.json
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---apk_ide_redirect_file
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   +---createDebugApkListingFileRedirect
+¦   ¦   ¦   ¦   ¦           redirect.txt
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---debugAndroidTest
+¦   ¦   ¦   ¦       +---createDebugAndroidTestApkListingFileRedirect
+¦   ¦   ¦   ¦               redirect.txt
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---app_metadata
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---writeDebugAppMetadata
+¦   ¦   ¦   ¦               app-metadata.properties
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---assets
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   +---mergeDebugAssets
+¦   ¦   ¦   ¦   +---debugAndroidTest
+¦   ¦   ¦   ¦       +---mergeDebugAndroidTestAssets
+¦   ¦   ¦   +---compatible_screen_manifest
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---createDebugCompatibleScreenManifests
+¦   ¦   ¦   ¦               output-metadata.json
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---compile_and_runtime_not_namespaced_r_class_jar
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   +---processDebugResources
+¦   ¦   ¦   ¦   ¦           R.jar
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---debugAndroidTest
+¦   ¦   ¦   ¦       +---processDebugAndroidTestResources
+¦   ¦   ¦   ¦               R.jar
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---compile_app_classes_jar
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---bundleDebugClassesToCompileJar
+¦   ¦   ¦   ¦               classes.jar
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---compressed_assets
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   +---compressDebugAssets
+¦   ¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦   +---debugAndroidTest
+¦   ¦   ¦   ¦       +---compressDebugAndroidTestAssets
+¦   ¦   ¦   ¦           +---out
+¦   ¦   ¦   +---data_binding_layout_info_type_merge
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   +---mergeDebugResources
+¦   ¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦   +---debugAndroidTest
+¦   ¦   ¦   ¦       +---mergeDebugAndroidTestResources
+¦   ¦   ¦   ¦           +---out
+¦   ¦   ¦   +---data_binding_layout_info_type_package
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---packageDebugResources
+¦   ¦   ¦   ¦           +---out
+¦   ¦   ¦   +---desugar_graph
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   +---dexBuilderDebug
+¦   ¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦   ¦           +---currentProject
+¦   ¦   ¦   ¦   ¦           ¦   +---dirs_bucket_0
+¦   ¦   ¦   ¦   ¦           ¦   ¦       graph.bin
+¦   ¦   ¦   ¦   ¦           ¦   ¦       
+¦   ¦   ¦   ¦   ¦           ¦   +---dirs_bucket_1
+¦   ¦   ¦   ¦   ¦           ¦   ¦       graph.bin
+¦   ¦   ¦   ¦   ¦           ¦   ¦       
+¦   ¦   ¦   ¦   ¦           ¦   +---dirs_bucket_2
+¦   ¦   ¦   ¦   ¦           ¦   ¦       graph.bin
+¦   ¦   ¦   ¦   ¦           ¦   ¦       
+¦   ¦   ¦   ¦   ¦           ¦   +---dirs_bucket_3
+¦   ¦   ¦   ¦   ¦           ¦   ¦       graph.bin
+¦   ¦   ¦   ¦   ¦           ¦   ¦       
+¦   ¦   ¦   ¦   ¦           ¦   +---jar_44cd1d01da2693fc5bfa8b22c5dfbd0d3a97ada536cc6b9a66d187c90b39e143_bucket_0
+¦   ¦   ¦   ¦   ¦           ¦   ¦       graph.bin
+¦   ¦   ¦   ¦   ¦           ¦   ¦       
+¦   ¦   ¦   ¦   ¦           ¦   +---jar_44cd1d01da2693fc5bfa8b22c5dfbd0d3a97ada536cc6b9a66d187c90b39e143_bucket_1
+¦   ¦   ¦   ¦   ¦           ¦   ¦       graph.bin
+¦   ¦   ¦   ¦   ¦           ¦   ¦       
+¦   ¦   ¦   ¦   ¦           ¦   +---jar_44cd1d01da2693fc5bfa8b22c5dfbd0d3a97ada536cc6b9a66d187c90b39e143_bucket_2
+¦   ¦   ¦   ¦   ¦           ¦   ¦       graph.bin
+¦   ¦   ¦   ¦   ¦           ¦   ¦       
+¦   ¦   ¦   ¦   ¦           ¦   +---jar_44cd1d01da2693fc5bfa8b22c5dfbd0d3a97ada536cc6b9a66d187c90b39e143_bucket_3
+¦   ¦   ¦   ¦   ¦           ¦           graph.bin
+¦   ¦   ¦   ¦   ¦           ¦           
+¦   ¦   ¦   ¦   ¦           +---externalLibs
+¦   ¦   ¦   ¦   ¦           +---mixedScopes
+¦   ¦   ¦   ¦   ¦           +---otherProjects
+¦   ¦   ¦   ¦   +---debugAndroidTest
+¦   ¦   ¦   ¦       +---dexBuilderDebugAndroidTest
+¦   ¦   ¦   ¦           +---out
+¦   ¦   ¦   ¦               +---currentProject
+¦   ¦   ¦   ¦               ¦   +---jar_56de1525c396a6b9dae16835fbddf9dc84e002a8d626f49b9f32bf9b9acb68d0_bucket_0
+¦   ¦   ¦   ¦               ¦   ¦       graph.bin
+¦   ¦   ¦   ¦               ¦   ¦       
+¦   ¦   ¦   ¦               ¦   +---jar_56de1525c396a6b9dae16835fbddf9dc84e002a8d626f49b9f32bf9b9acb68d0_bucket_1
+¦   ¦   ¦   ¦               ¦   ¦       graph.bin
+¦   ¦   ¦   ¦               ¦   ¦       
+¦   ¦   ¦   ¦               ¦   +---jar_56de1525c396a6b9dae16835fbddf9dc84e002a8d626f49b9f32bf9b9acb68d0_bucket_2
+¦   ¦   ¦   ¦               ¦   ¦       graph.bin
+¦   ¦   ¦   ¦               ¦   ¦       
+¦   ¦   ¦   ¦               ¦   +---jar_56de1525c396a6b9dae16835fbddf9dc84e002a8d626f49b9f32bf9b9acb68d0_bucket_3
+¦   ¦   ¦   ¦               ¦           graph.bin
+¦   ¦   ¦   ¦               ¦           
+¦   ¦   ¦   ¦               +---externalLibs
+¦   ¦   ¦   ¦               +---mixedScopes
+¦   ¦   ¦   ¦               +---otherProjects
+¦   ¦   ¦   +---dex
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   +---mergeExtDexDebug
+¦   ¦   ¦   ¦   ¦   ¦       classes.dex
+¦   ¦   ¦   ¦   ¦   ¦       classes2.dex
+¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   +---mergeLibDexDebug
+¦   ¦   ¦   ¦   ¦   ¦   +---0
+¦   ¦   ¦   ¦   ¦   ¦   +---1
+¦   ¦   ¦   ¦   ¦   ¦   +---10
+¦   ¦   ¦   ¦   ¦   ¦   +---11
+¦   ¦   ¦   ¦   ¦   ¦   +---12
+¦   ¦   ¦   ¦   ¦   ¦   +---13
+¦   ¦   ¦   ¦   ¦   ¦   +---14
+¦   ¦   ¦   ¦   ¦   ¦   +---15
+¦   ¦   ¦   ¦   ¦   ¦   +---2
+¦   ¦   ¦   ¦   ¦   ¦   +---3
+¦   ¦   ¦   ¦   ¦   ¦   +---4
+¦   ¦   ¦   ¦   ¦   ¦   +---5
+¦   ¦   ¦   ¦   ¦   ¦   +---6
+¦   ¦   ¦   ¦   ¦   ¦   +---7
+¦   ¦   ¦   ¦   ¦   ¦   +---8
+¦   ¦   ¦   ¦   ¦   ¦   +---9
+¦   ¦   ¦   ¦   ¦   +---mergeProjectDexDebug
+¦   ¦   ¦   ¦   ¦       +---0
+¦   ¦   ¦   ¦   ¦       ¦       classes.dex
+¦   ¦   ¦   ¦   ¦       ¦       
+¦   ¦   ¦   ¦   ¦       +---1
+¦   ¦   ¦   ¦   ¦       +---10
+¦   ¦   ¦   ¦   ¦       +---11
+¦   ¦   ¦   ¦   ¦       ¦       classes.dex
+¦   ¦   ¦   ¦   ¦       ¦       
+¦   ¦   ¦   ¦   ¦       +---12
+¦   ¦   ¦   ¦   ¦       +---13
+¦   ¦   ¦   ¦   ¦       +---14
+¦   ¦   ¦   ¦   ¦       +---15
+¦   ¦   ¦   ¦   ¦       +---2
+¦   ¦   ¦   ¦   ¦       +---3
+¦   ¦   ¦   ¦   ¦       +---4
+¦   ¦   ¦   ¦   ¦       +---5
+¦   ¦   ¦   ¦   ¦       +---6
+¦   ¦   ¦   ¦   ¦       +---7
+¦   ¦   ¦   ¦   ¦       +---8
+¦   ¦   ¦   ¦   ¦       +---9
+¦   ¦   ¦   ¦   +---debugAndroidTest
+¦   ¦   ¦   ¦       +---mergeExtDexDebugAndroidTest
+¦   ¦   ¦   ¦       +---mergeLibDexDebugAndroidTest
+¦   ¦   ¦   ¦       ¦   +---0
+¦   ¦   ¦   ¦       ¦   +---1
+¦   ¦   ¦   ¦       ¦   +---10
+¦   ¦   ¦   ¦       ¦   +---11
+¦   ¦   ¦   ¦       ¦   +---12
+¦   ¦   ¦   ¦       ¦   +---13
+¦   ¦   ¦   ¦       ¦   +---14
+¦   ¦   ¦   ¦       ¦   +---15
+¦   ¦   ¦   ¦       ¦   +---2
+¦   ¦   ¦   ¦       ¦   +---3
+¦   ¦   ¦   ¦       ¦   +---4
+¦   ¦   ¦   ¦       ¦   +---5
+¦   ¦   ¦   ¦       ¦   +---6
+¦   ¦   ¦   ¦       ¦   +---7
+¦   ¦   ¦   ¦       ¦   +---8
+¦   ¦   ¦   ¦       ¦   +---9
+¦   ¦   ¦   ¦       +---mergeProjectDexDebugAndroidTest
+¦   ¦   ¦   ¦           +---0
+¦   ¦   ¦   ¦           ¦       classes.dex
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---1
+¦   ¦   ¦   ¦           +---10
+¦   ¦   ¦   ¦           +---11
+¦   ¦   ¦   ¦           +---12
+¦   ¦   ¦   ¦           +---13
+¦   ¦   ¦   ¦           +---14
+¦   ¦   ¦   ¦           +---15
+¦   ¦   ¦   ¦           +---2
+¦   ¦   ¦   ¦           +---3
+¦   ¦   ¦   ¦           +---4
+¦   ¦   ¦   ¦           +---5
+¦   ¦   ¦   ¦           +---6
+¦   ¦   ¦   ¦           +---7
+¦   ¦   ¦   ¦           +---8
+¦   ¦   ¦   ¦           +---9
+¦   ¦   ¦   +---dex_archive_input_jar_hashes
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   +---dexBuilderDebug
+¦   ¦   ¦   ¦   ¦           out
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---debugAndroidTest
+¦   ¦   ¦   ¦       +---dexBuilderDebugAndroidTest
+¦   ¦   ¦   ¦               out
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---dex_number_of_buckets_file
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   +---dexBuilderDebug
+¦   ¦   ¦   ¦   ¦           out
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---debugAndroidTest
+¦   ¦   ¦   ¦       +---dexBuilderDebugAndroidTest
+¦   ¦   ¦   ¦               out
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---duplicate_classes_check
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   +---checkDebugDuplicateClasses
+¦   ¦   ¦   ¦   +---debugAndroidTest
+¦   ¦   ¦   ¦       +---checkDebugAndroidTestDuplicateClasses
+¦   ¦   ¦   +---external_file_lib_dex_archives
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   +---desugarDebugFileDependencies
+¦   ¦   ¦   ¦   +---debugAndroidTest
+¦   ¦   ¦   ¦       +---desugarDebugAndroidTestFileDependencies
+¦   ¦   ¦   +---external_libs_dex_archive
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   +---dexBuilderDebug
+¦   ¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦   +---debugAndroidTest
+¦   ¦   ¦   ¦       +---dexBuilderDebugAndroidTest
+¦   ¦   ¦   ¦           +---out
+¦   ¦   ¦   +---external_libs_dex_archive_with_artifact_transforms
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   +---dexBuilderDebug
+¦   ¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦   +---debugAndroidTest
+¦   ¦   ¦   ¦       +---dexBuilderDebugAndroidTest
+¦   ¦   ¦   ¦           +---out
+¦   ¦   ¦   +---incremental
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   +---mergeDebugResources
+¦   ¦   ¦   ¦   ¦   ¦   ¦   compile-file-map.properties
+¦   ¦   ¦   ¦   ¦   ¦   ¦   merger.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   ¦   ¦   +---merged.dir
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-af
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-af.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-am
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-am.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-ar
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-ar.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-as
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-as.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-az
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-az.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-b+sr+Latn
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-b+sr+Latn.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-be
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-be.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-bg
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-bg.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-bn
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-bn.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-bs
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-bs.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-ca
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-ca.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-cs
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-cs.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-da
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-da.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-de
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-de.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-el
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-el.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-en-rAU
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-en-rAU.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-en-rCA
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-en-rCA.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-en-rGB
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-en-rGB.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-en-rIN
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-en-rIN.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-en-rXC
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-en-rXC.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-es
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-es.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-es-rUS
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-es-rUS.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-et
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-et.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-eu
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-eu.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-fa
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-fa.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-fi
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-fi.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-fr
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-fr.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-fr-rCA
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-fr-rCA.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-gl
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-gl.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-gu
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-gu.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-hi
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-hi.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-hr
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-hr.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-hu
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-hu.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-hy
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-hy.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-in
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-in.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-is
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-is.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-it
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-it.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-iw
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-iw.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-ja
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-ja.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-ka
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-ka.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-kk
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-kk.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-km
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-km.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-kn
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-kn.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-ko
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-ko.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-ky
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-ky.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-ldrtl-v17
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-ldrtl-v17.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-lo
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-lo.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-lt
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-lt.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-lv
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-lv.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-mk
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-mk.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-ml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-ml.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-mn
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-mn.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-mr
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-mr.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-ms
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-ms.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-my
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-my.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-nb
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-nb.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-ne
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-ne.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-nl
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-nl.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-or
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-or.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-pa
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-pa.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-pl
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-pl.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-pt
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-pt.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-pt-rBR
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-pt-rBR.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-pt-rPT
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-pt-rPT.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-ro
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-ro.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-ru
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-ru.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-si
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-si.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-sk
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-sk.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-sl
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-sl.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-sq
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-sq.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-sr
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-sr.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-sv
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-sv.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-sw
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-sw.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-ta
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-ta.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-te
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-te.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-th
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-th.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-tl
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-tl.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-tr
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-tr.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-uk
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-uk.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-ur
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-ur.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-uz
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-uz.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-v18
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-v18.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-v19
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-v19.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-v21
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-v21.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-v22
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-v22.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-v24
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-v24.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-vi
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-vi.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-zh-rCN
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-zh-rCN.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-zh-rHK
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-zh-rHK.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-zh-rTW
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       values-zh-rTW.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   ¦   +---values-zu
+¦   ¦   ¦   ¦   ¦   ¦   ¦           values-zu.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   ¦   ¦   +---stripped.dir
+¦   ¦   ¦   ¦   ¦   +---packageDebugResources
+¦   ¦   ¦   ¦   ¦       ¦   compile-file-map.properties
+¦   ¦   ¦   ¦   ¦       ¦   merger.xml
+¦   ¦   ¦   ¦   ¦       ¦   
+¦   ¦   ¦   ¦   ¦       +---merged.dir
+¦   ¦   ¦   ¦   ¦       ¦   +---values
+¦   ¦   ¦   ¦   ¦       ¦           values.xml
+¦   ¦   ¦   ¦   ¦       ¦           
+¦   ¦   ¦   ¦   ¦       +---stripped.dir
+¦   ¦   ¦   ¦   +---debug-mergeJavaRes
+¦   ¦   ¦   ¦   ¦   ¦   merge-state
+¦   ¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   ¦   +---zip-cache
+¦   ¦   ¦   ¦   ¦           +1oI9OmbBzGa3T9lsSFYGjn8d3g=
+¦   ¦   ¦   ¦   ¦           1s8jKsQ7Sf7O2kDNONH+R_lTMbM=
+¦   ¦   ¦   ¦   ¦           3bodqzpOxeWk74sx93f1dBoDlcQ=
+¦   ¦   ¦   ¦   ¦           3vIHY9cN+MXflcq44zRLDXRE_go=
+¦   ¦   ¦   ¦   ¦           5j578YsHF4wk1jZGnwWpOqGHnPE=
+¦   ¦   ¦   ¦   ¦           5uLchtdniWayfPaV7GwvPaUYRAo=
+¦   ¦   ¦   ¦   ¦           7mX+BMSTOQajf_4wFilzhTdm7Ek=
+¦   ¦   ¦   ¦   ¦           7XqTuOTgktz5X54iWEfURwh0GHM=
+¦   ¦   ¦   ¦   ¦           9KGOXeWcMRdZXKMHxgF8xqzAZhY=
+¦   ¦   ¦   ¦   ¦           9xL0NtESs0nHagE0u3Dc8SD6Z8Q=
+¦   ¦   ¦   ¦   ¦           bKid69g4XQH6K8H9hs7TYtFBMGQ=
+¦   ¦   ¦   ¦   ¦           bTYljCs3ONUVdKSc33+G8uMznxA=
+¦   ¦   ¦   ¦   ¦           ByIj7KbTdKvsRQ8Ld+xcsJxFyos=
+¦   ¦   ¦   ¦   ¦           ceRsvjStJiyY8IHq9POXnHWFIFg=
+¦   ¦   ¦   ¦   ¦           CM_A1EKGBq0EowYBkgz82B6Ou0A=
+¦   ¦   ¦   ¦   ¦           cR6LWFqGw4Ka3brTHY4F40nfuf4=
+¦   ¦   ¦   ¦   ¦           D5rkM7OqiFv0LuaB1FA2xdfufvA=
+¦   ¦   ¦   ¦   ¦           e7okX2fs2o5g3WVJ1jfur29vmUw=
+¦   ¦   ¦   ¦   ¦           Eg16k6VHFDHp7uU6HpX8vWdI9iw=
+¦   ¦   ¦   ¦   ¦           EZPCRpocLMSQXx3o6UuOyzEH7mQ=
+¦   ¦   ¦   ¦   ¦           Fay9T+JIggMU_p71K3PS_MrCeMA=
+¦   ¦   ¦   ¦   ¦           frg5vaRKdaWb6poU8bKQCQnU1hA=
+¦   ¦   ¦   ¦   ¦           huRIIaAjQMFXq2k2Zt35SITlWDs=
+¦   ¦   ¦   ¦   ¦           i3A1UyrtLgaY64mvLEZB3yfihbM=
+¦   ¦   ¦   ¦   ¦           iI2V5JNJsmh0s_M1DPzeytq+VrU=
+¦   ¦   ¦   ¦   ¦           kETc8ZCmsYqD4MDQGinJnL4uCZY=
+¦   ¦   ¦   ¦   ¦           LQxo1oE0h8iMPAj39jFyyjLt9zw=
+¦   ¦   ¦   ¦   ¦           lXcb4ikf_lKtk6+CwRF+M4Z01Fo=
+¦   ¦   ¦   ¦   ¦           lZItP_nlDt5p1h9ZaIwbe1NV9t0=
+¦   ¦   ¦   ¦   ¦           M5QgjfsuNkEp3LNWROffCVGUbio=
+¦   ¦   ¦   ¦   ¦           Mt4HAl+M16kpG1CvmhxQRB3bQOM=
+¦   ¦   ¦   ¦   ¦           oCZO8cRPy0lFLcfdf0eAHTnxGfs=
+¦   ¦   ¦   ¦   ¦           oGwDGf8w77Ea3jZB6LgF5tEn06w=
+¦   ¦   ¦   ¦   ¦           oLrVKIhnyOKpp7mcL42HEmfxIcc=
+¦   ¦   ¦   ¦   ¦           omOXXWstWcl180qqPtID5XoUwr4=
+¦   ¦   ¦   ¦   ¦           PLw890Wmg0+dU8FXMdQnOdEAnVs=
+¦   ¦   ¦   ¦   ¦           pPnlkAguvmJQUb_PcHZsfAmAxNM=
+¦   ¦   ¦   ¦   ¦           PqxGsE_MUBhq3N7CEPRaS010Ykc=
+¦   ¦   ¦   ¦   ¦           qhlJX8jFlaitvpZtvZI7fhX_50k=
+¦   ¦   ¦   ¦   ¦           qQR6cSzRms6l1fXK7BGDfZa1Rog=
+¦   ¦   ¦   ¦   ¦           QUK51oJcXeRCnyOjQaoCz+sGOuQ=
+¦   ¦   ¦   ¦   ¦           rC_J071obH+60ySzPU+OKCmkgjM=
+¦   ¦   ¦   ¦   ¦           RU_Ub2dMm+GY+Dc+netATD2p4vw=
+¦   ¦   ¦   ¦   ¦           Rw9RYM9EZWml3ByS1yTJml8Rh_4=
+¦   ¦   ¦   ¦   ¦           sJKQk5DELCLVlTMISBxtgf+j1Iw=
+¦   ¦   ¦   ¦   ¦           szTk2aGHWGNYJdXKwn14En9RmSE=
+¦   ¦   ¦   ¦   ¦           TqfgqbnaqitPRXN1ouGmcNvUQHk=
+¦   ¦   ¦   ¦   ¦           Trc22B6Ir8QH7xJPDn6xfX_wkdI=
+¦   ¦   ¦   ¦   ¦           tWNzgXlXl1a7YaIGJDLxpCCarsM=
+¦   ¦   ¦   ¦   ¦           UKzGXX5PSLfDDJjYh3uJQNasTM8=
+¦   ¦   ¦   ¦   ¦           vRrEZEN1vm323_AvMNS+p9NXNpQ=
+¦   ¦   ¦   ¦   ¦           vrVqqrs8tJSEcYWXwrftGeRhXUw=
+¦   ¦   ¦   ¦   ¦           VTyP3YhcL0zci42I8N9K1hC_aVc=
+¦   ¦   ¦   ¦   ¦           wQ0g_iFd0cJPYLZ_kgLjL_I7mrc=
+¦   ¦   ¦   ¦   ¦           wVTa2S9evzDjy5S2mKXX+pRY11o=
+¦   ¦   ¦   ¦   ¦           YvhYV3R6imQraKhXxcGXRKcddYw=
+¦   ¦   ¦   ¦   ¦           z9YfcuNR5IDXmDYItwgER7dNjNU=
+¦   ¦   ¦   ¦   ¦           _UTIaSLDt0bOK2fV992uf5DXCL0=
+¦   ¦   ¦   ¦   ¦           __W2oX2X3oOE1orPJ2VHDEwLaGo=
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---debugAndroidTest
+¦   ¦   ¦   ¦   ¦   +---mergeDebugAndroidTestResources
+¦   ¦   ¦   ¦   ¦       ¦   compile-file-map.properties
+¦   ¦   ¦   ¦   ¦       ¦   merger.xml
+¦   ¦   ¦   ¦   ¦       ¦   
+¦   ¦   ¦   ¦   ¦       +---merged.dir
+¦   ¦   ¦   ¦   ¦       +---stripped.dir
+¦   ¦   ¦   ¦   +---debugAndroidTest-mergeJavaRes
+¦   ¦   ¦   ¦   ¦   ¦   merge-state
+¦   ¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   ¦   +---zip-cache
+¦   ¦   ¦   ¦   +---mergeDebugAndroidTestAssets
+¦   ¦   ¦   ¦   ¦       merger.xml
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---mergeDebugAndroidTestJniLibFolders
+¦   ¦   ¦   ¦   ¦       merger.xml
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---mergeDebugAndroidTestShaders
+¦   ¦   ¦   ¦   ¦       merger.xml
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---mergeDebugAssets
+¦   ¦   ¦   ¦   ¦       merger.xml
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---mergeDebugJniLibFolders
+¦   ¦   ¦   ¦   ¦       merger.xml
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---mergeDebugShaders
+¦   ¦   ¦   ¦   ¦       merger.xml
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---packageDebug
+¦   ¦   ¦   ¦   ¦   +---tmp
+¦   ¦   ¦   ¦   ¦       +---debug
+¦   ¦   ¦   ¦   ¦           ¦   dex-renamer-state.txt
+¦   ¦   ¦   ¦   ¦           ¦   
+¦   ¦   ¦   ¦   ¦           +---zip-cache
+¦   ¦   ¦   ¦   ¦                   androidResources
+¦   ¦   ¦   ¦   ¦                   javaResources0
+¦   ¦   ¦   ¦   ¦                   
+¦   ¦   ¦   ¦   +---packageDebugAndroidTest
+¦   ¦   ¦   ¦       +---tmp
+¦   ¦   ¦   ¦           +---debugAndroidTest
+¦   ¦   ¦   ¦               ¦   dex-renamer-state.txt
+¦   ¦   ¦   ¦               ¦   
+¦   ¦   ¦   ¦               +---zip-cache
+¦   ¦   ¦   ¦                       androidResources
+¦   ¦   ¦   ¦                       javaResources0
+¦   ¦   ¦   ¦                       
+¦   ¦   ¦   +---java_res
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---processDebugJavaRes
+¦   ¦   ¦   ¦           +---out
+¦   ¦   ¦   ¦               +---com
+¦   ¦   ¦   ¦               ¦   +---example
+¦   ¦   ¦   ¦               ¦       +---amtccloud
+¦   ¦   ¦   ¦               +---META-INF
+¦   ¦   ¦   ¦                       app_debug.kotlin_module
+¦   ¦   ¦   ¦                       
+¦   ¦   ¦   +---linked_resources_binary_format
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   +---processDebugResources
+¦   ¦   ¦   ¦   ¦           linked-resources-binary-format-debug.ap_
+¦   ¦   ¦   ¦   ¦           output-metadata.json
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---debugAndroidTest
+¦   ¦   ¦   ¦       +---processDebugAndroidTestResources
+¦   ¦   ¦   ¦               linked-resources-binary-format.ap_
+¦   ¦   ¦   ¦               output-metadata.json
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---local_only_symbol_list
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---parseDebugLocalResources
+¦   ¦   ¦   ¦               R-def.txt
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---manifest_merge_blame_file
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   +---processDebugMainManifest
+¦   ¦   ¦   ¦   ¦           manifest-merger-blame-debug-report.txt
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---debugAndroidTest
+¦   ¦   ¦   ¦       +---processDebugAndroidTestManifest
+¦   ¦   ¦   ¦               manifest-merger-blame-debug-androidTest-report.txt
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---merged_java_res
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   +---mergeDebugJavaResource
+¦   ¦   ¦   ¦   ¦           base.jar
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---debugAndroidTest
+¦   ¦   ¦   ¦       +---mergeDebugAndroidTestJavaResource
+¦   ¦   ¦   ¦               feature-app.jar
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---merged_jni_libs
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   +---mergeDebugJniLibFolders
+¦   ¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦   +---debugAndroidTest
+¦   ¦   ¦   ¦       +---mergeDebugAndroidTestJniLibFolders
+¦   ¦   ¦   ¦           +---out
+¦   ¦   ¦   +---merged_manifest
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---processDebugMainManifest
+¦   ¦   ¦   ¦               AndroidManifest.xml
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---merged_manifests
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---processDebugManifest
+¦   ¦   ¦   ¦               AndroidManifest.xml
+¦   ¦   ¦   ¦               output-metadata.json
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---merged_res
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   +---mergeDebugResources
+¦   ¦   ¦   ¦   ¦           drawable_app_icon_your_company.png.flat
+¦   ¦   ¦   ¦   ¦           drawable_default_background.xml.flat
+¦   ¦   ¦   ¦   ¦           drawable_ic_launcher_background.xml.flat
+¦   ¦   ¦   ¦   ¦           drawable_movie.png.flat
+¦   ¦   ¦   ¦   ¦           layout_activity_details.xml.flat
+¦   ¦   ¦   ¦   ¦           layout_activity_main.xml.flat
+¦   ¦   ¦   ¦   ¦           layout_fragment_playback_video.xml.flat
+¦   ¦   ¦   ¦   ¦           mipmap-anydpi-v26_ic_launcher.xml.flat
+¦   ¦   ¦   ¦   ¦           mipmap-anydpi-v26_ic_launcher_round.xml.flat
+¦   ¦   ¦   ¦   ¦           mipmap-hdpi_ic_launcher.webp.flat
+¦   ¦   ¦   ¦   ¦           mipmap-hdpi_ic_launcher_foreground.webp.flat
+¦   ¦   ¦   ¦   ¦           mipmap-hdpi_ic_launcher_round.webp.flat
+¦   ¦   ¦   ¦   ¦           mipmap-mdpi_ic_launcher.webp.flat
+¦   ¦   ¦   ¦   ¦           mipmap-mdpi_ic_launcher_foreground.webp.flat
+¦   ¦   ¦   ¦   ¦           mipmap-mdpi_ic_launcher_round.webp.flat
+¦   ¦   ¦   ¦   ¦           mipmap-xhdpi_ic_launcher.webp.flat
+¦   ¦   ¦   ¦   ¦           mipmap-xhdpi_ic_launcher_foreground.webp.flat
+¦   ¦   ¦   ¦   ¦           mipmap-xhdpi_ic_launcher_round.webp.flat
+¦   ¦   ¦   ¦   ¦           mipmap-xxhdpi_ic_launcher.webp.flat
+¦   ¦   ¦   ¦   ¦           mipmap-xxhdpi_ic_launcher_foreground.webp.flat
+¦   ¦   ¦   ¦   ¦           mipmap-xxhdpi_ic_launcher_round.webp.flat
+¦   ¦   ¦   ¦   ¦           mipmap-xxxhdpi_ic_launcher.webp.flat
+¦   ¦   ¦   ¦   ¦           mipmap-xxxhdpi_ic_launcher_foreground.webp.flat
+¦   ¦   ¦   ¦   ¦           mipmap-xxxhdpi_ic_launcher_round.webp.flat
+¦   ¦   ¦   ¦   ¦           values-af_values-af.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-am_values-am.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-ar_values-ar.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-as_values-as.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-az_values-az.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-b+sr+Latn_values-b+sr+Latn.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-be_values-be.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-bg_values-bg.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-bn_values-bn.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-bs_values-bs.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-ca_values-ca.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-cs_values-cs.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-da_values-da.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-de_values-de.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-el_values-el.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-en-rAU_values-en-rAU.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-en-rCA_values-en-rCA.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-en-rGB_values-en-rGB.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-en-rIN_values-en-rIN.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-en-rXC_values-en-rXC.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-es-rUS_values-es-rUS.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-es_values-es.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-et_values-et.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-eu_values-eu.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-fa_values-fa.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-fi_values-fi.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-fr-rCA_values-fr-rCA.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-fr_values-fr.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-gl_values-gl.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-gu_values-gu.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-hi_values-hi.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-hr_values-hr.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-hu_values-hu.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-hy_values-hy.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-in_values-in.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-is_values-is.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-it_values-it.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-iw_values-iw.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-ja_values-ja.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-ka_values-ka.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-kk_values-kk.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-km_values-km.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-kn_values-kn.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-ko_values-ko.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-ky_values-ky.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-ldrtl-v17_values-ldrtl-v17.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-lo_values-lo.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-lt_values-lt.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-lv_values-lv.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-mk_values-mk.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-ml_values-ml.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-mn_values-mn.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-mr_values-mr.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-ms_values-ms.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-my_values-my.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-nb_values-nb.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-ne_values-ne.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-nl_values-nl.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-or_values-or.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-pa_values-pa.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-pl_values-pl.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-pt-rBR_values-pt-rBR.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-pt-rPT_values-pt-rPT.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-pt_values-pt.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-ro_values-ro.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-ru_values-ru.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-si_values-si.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-sk_values-sk.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-sl_values-sl.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-sq_values-sq.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-sr_values-sr.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-sv_values-sv.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-sw_values-sw.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-ta_values-ta.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-te_values-te.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-th_values-th.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-tl_values-tl.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-tr_values-tr.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-uk_values-uk.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-ur_values-ur.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-uz_values-uz.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-v18_values-v18.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-v19_values-v19.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-v21_values-v21.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-v22_values-v22.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-v24_values-v24.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-vi_values-vi.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-zh-rCN_values-zh-rCN.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-zh-rHK_values-zh-rHK.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-zh-rTW_values-zh-rTW.arsc.flat
+¦   ¦   ¦   ¦   ¦           values-zu_values-zu.arsc.flat
+¦   ¦   ¦   ¦   ¦           values_values.arsc.flat
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---debugAndroidTest
+¦   ¦   ¦   ¦       +---mergeDebugAndroidTestResources
+¦   ¦   ¦   +---merged_res_blame_folder
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   +---mergeDebugResources
+¦   ¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦   ¦           +---multi-v2
+¦   ¦   ¦   ¦   ¦           ¦       mergeDebugResources.json
+¦   ¦   ¦   ¦   ¦           ¦       values-af.json
+¦   ¦   ¦   ¦   ¦           ¦       values-am.json
+¦   ¦   ¦   ¦   ¦           ¦       values-ar.json
+¦   ¦   ¦   ¦   ¦           ¦       values-as.json
+¦   ¦   ¦   ¦   ¦           ¦       values-az.json
+¦   ¦   ¦   ¦   ¦           ¦       values-b+sr+Latn.json
+¦   ¦   ¦   ¦   ¦           ¦       values-be.json
+¦   ¦   ¦   ¦   ¦           ¦       values-bg.json
+¦   ¦   ¦   ¦   ¦           ¦       values-bn.json
+¦   ¦   ¦   ¦   ¦           ¦       values-bs.json
+¦   ¦   ¦   ¦   ¦           ¦       values-ca.json
+¦   ¦   ¦   ¦   ¦           ¦       values-cs.json
+¦   ¦   ¦   ¦   ¦           ¦       values-da.json
+¦   ¦   ¦   ¦   ¦           ¦       values-de.json
+¦   ¦   ¦   ¦   ¦           ¦       values-el.json
+¦   ¦   ¦   ¦   ¦           ¦       values-en-rAU.json
+¦   ¦   ¦   ¦   ¦           ¦       values-en-rCA.json
+¦   ¦   ¦   ¦   ¦           ¦       values-en-rGB.json
+¦   ¦   ¦   ¦   ¦           ¦       values-en-rIN.json
+¦   ¦   ¦   ¦   ¦           ¦       values-en-rXC.json
+¦   ¦   ¦   ¦   ¦           ¦       values-es-rUS.json
+¦   ¦   ¦   ¦   ¦           ¦       values-es.json
+¦   ¦   ¦   ¦   ¦           ¦       values-et.json
+¦   ¦   ¦   ¦   ¦           ¦       values-eu.json
+¦   ¦   ¦   ¦   ¦           ¦       values-fa.json
+¦   ¦   ¦   ¦   ¦           ¦       values-fi.json
+¦   ¦   ¦   ¦   ¦           ¦       values-fr-rCA.json
+¦   ¦   ¦   ¦   ¦           ¦       values-fr.json
+¦   ¦   ¦   ¦   ¦           ¦       values-gl.json
+¦   ¦   ¦   ¦   ¦           ¦       values-gu.json
+¦   ¦   ¦   ¦   ¦           ¦       values-hi.json
+¦   ¦   ¦   ¦   ¦           ¦       values-hr.json
+¦   ¦   ¦   ¦   ¦           ¦       values-hu.json
+¦   ¦   ¦   ¦   ¦           ¦       values-hy.json
+¦   ¦   ¦   ¦   ¦           ¦       values-in.json
+¦   ¦   ¦   ¦   ¦           ¦       values-is.json
+¦   ¦   ¦   ¦   ¦           ¦       values-it.json
+¦   ¦   ¦   ¦   ¦           ¦       values-iw.json
+¦   ¦   ¦   ¦   ¦           ¦       values-ja.json
+¦   ¦   ¦   ¦   ¦           ¦       values-ka.json
+¦   ¦   ¦   ¦   ¦           ¦       values-kk.json
+¦   ¦   ¦   ¦   ¦           ¦       values-km.json
+¦   ¦   ¦   ¦   ¦           ¦       values-kn.json
+¦   ¦   ¦   ¦   ¦           ¦       values-ko.json
+¦   ¦   ¦   ¦   ¦           ¦       values-ky.json
+¦   ¦   ¦   ¦   ¦           ¦       values-ldrtl-v17.json
+¦   ¦   ¦   ¦   ¦           ¦       values-lo.json
+¦   ¦   ¦   ¦   ¦           ¦       values-lt.json
+¦   ¦   ¦   ¦   ¦           ¦       values-lv.json
+¦   ¦   ¦   ¦   ¦           ¦       values-mk.json
+¦   ¦   ¦   ¦   ¦           ¦       values-ml.json
+¦   ¦   ¦   ¦   ¦           ¦       values-mn.json
+¦   ¦   ¦   ¦   ¦           ¦       values-mr.json
+¦   ¦   ¦   ¦   ¦           ¦       values-ms.json
+¦   ¦   ¦   ¦   ¦           ¦       values-my.json
+¦   ¦   ¦   ¦   ¦           ¦       values-nb.json
+¦   ¦   ¦   ¦   ¦           ¦       values-ne.json
+¦   ¦   ¦   ¦   ¦           ¦       values-nl.json
+¦   ¦   ¦   ¦   ¦           ¦       values-or.json
+¦   ¦   ¦   ¦   ¦           ¦       values-pa.json
+¦   ¦   ¦   ¦   ¦           ¦       values-pl.json
+¦   ¦   ¦   ¦   ¦           ¦       values-pt-rBR.json
+¦   ¦   ¦   ¦   ¦           ¦       values-pt-rPT.json
+¦   ¦   ¦   ¦   ¦           ¦       values-pt.json
+¦   ¦   ¦   ¦   ¦           ¦       values-ro.json
+¦   ¦   ¦   ¦   ¦           ¦       values-ru.json
+¦   ¦   ¦   ¦   ¦           ¦       values-si.json
+¦   ¦   ¦   ¦   ¦           ¦       values-sk.json
+¦   ¦   ¦   ¦   ¦           ¦       values-sl.json
+¦   ¦   ¦   ¦   ¦           ¦       values-sq.json
+¦   ¦   ¦   ¦   ¦           ¦       values-sr.json
+¦   ¦   ¦   ¦   ¦           ¦       values-sv.json
+¦   ¦   ¦   ¦   ¦           ¦       values-sw.json
+¦   ¦   ¦   ¦   ¦           ¦       values-ta.json
+¦   ¦   ¦   ¦   ¦           ¦       values-te.json
+¦   ¦   ¦   ¦   ¦           ¦       values-th.json
+¦   ¦   ¦   ¦   ¦           ¦       values-tl.json
+¦   ¦   ¦   ¦   ¦           ¦       values-tr.json
+¦   ¦   ¦   ¦   ¦           ¦       values-uk.json
+¦   ¦   ¦   ¦   ¦           ¦       values-ur.json
+¦   ¦   ¦   ¦   ¦           ¦       values-uz.json
+¦   ¦   ¦   ¦   ¦           ¦       values-v18.json
+¦   ¦   ¦   ¦   ¦           ¦       values-v19.json
+¦   ¦   ¦   ¦   ¦           ¦       values-v21.json
+¦   ¦   ¦   ¦   ¦           ¦       values-v22.json
+¦   ¦   ¦   ¦   ¦           ¦       values-v24.json
+¦   ¦   ¦   ¦   ¦           ¦       values-vi.json
+¦   ¦   ¦   ¦   ¦           ¦       values-zh-rCN.json
+¦   ¦   ¦   ¦   ¦           ¦       values-zh-rHK.json
+¦   ¦   ¦   ¦   ¦           ¦       values-zh-rTW.json
+¦   ¦   ¦   ¦   ¦           ¦       values-zu.json
+¦   ¦   ¦   ¦   ¦           ¦       values.json
+¦   ¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦   ¦           +---single
+¦   ¦   ¦   ¦   ¦                   mergeDebugResources.json
+¦   ¦   ¦   ¦   ¦                   
+¦   ¦   ¦   ¦   +---debugAndroidTest
+¦   ¦   ¦   ¦       +---mergeDebugAndroidTestResources
+¦   ¦   ¦   ¦           +---out
+¦   ¦   ¦   +---merged_shaders
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   +---mergeDebugShaders
+¦   ¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦   +---debugAndroidTest
+¦   ¦   ¦   ¦       +---mergeDebugAndroidTestShaders
+¦   ¦   ¦   ¦           +---out
+¦   ¦   ¦   +---mixed_scope_dex_archive
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   +---dexBuilderDebug
+¦   ¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦   +---debugAndroidTest
+¦   ¦   ¦   ¦       +---dexBuilderDebugAndroidTest
+¦   ¦   ¦   ¦           +---out
+¦   ¦   ¦   +---navigation_json
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---extractDeepLinksDebug
+¦   ¦   ¦   ¦               navigation.json
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---nested_resources_validation_report
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   +---generateDebugResources
+¦   ¦   ¦   ¦   ¦           nestedResourcesValidationReport.txt
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---debugAndroidTest
+¦   ¦   ¦   ¦       +---generateDebugAndroidTestResources
+¦   ¦   ¦   ¦               nestedResourcesValidationReport.txt
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---packaged_manifests
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   +---processDebugManifestForPackage
+¦   ¦   ¦   ¦   ¦           AndroidManifest.xml
+¦   ¦   ¦   ¦   ¦           output-metadata.json
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---debugAndroidTest
+¦   ¦   ¦   ¦       +---processDebugAndroidTestManifest
+¦   ¦   ¦   ¦               AndroidManifest.xml
+¦   ¦   ¦   ¦               output-metadata.json
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---packaged_res
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---packageDebugResources
+¦   ¦   ¦   ¦           +---drawable
+¦   ¦   ¦   ¦           ¦       app_icon_your_company.png
+¦   ¦   ¦   ¦           ¦       default_background.xml
+¦   ¦   ¦   ¦           ¦       ic_launcher_background.xml
+¦   ¦   ¦   ¦           ¦       movie.png
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---layout
+¦   ¦   ¦   ¦           ¦       activity_details.xml
+¦   ¦   ¦   ¦           ¦       activity_main.xml
+¦   ¦   ¦   ¦           ¦       fragment_playback_video.xml
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---mipmap-anydpi-v26
+¦   ¦   ¦   ¦           ¦       ic_launcher.xml
+¦   ¦   ¦   ¦           ¦       ic_launcher_round.xml
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---mipmap-hdpi-v4
+¦   ¦   ¦   ¦           ¦       ic_launcher.webp
+¦   ¦   ¦   ¦           ¦       ic_launcher_foreground.webp
+¦   ¦   ¦   ¦           ¦       ic_launcher_round.webp
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---mipmap-mdpi-v4
+¦   ¦   ¦   ¦           ¦       ic_launcher.webp
+¦   ¦   ¦   ¦           ¦       ic_launcher_foreground.webp
+¦   ¦   ¦   ¦           ¦       ic_launcher_round.webp
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---mipmap-xhdpi-v4
+¦   ¦   ¦   ¦           ¦       ic_launcher.webp
+¦   ¦   ¦   ¦           ¦       ic_launcher_foreground.webp
+¦   ¦   ¦   ¦           ¦       ic_launcher_round.webp
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---mipmap-xxhdpi-v4
+¦   ¦   ¦   ¦           ¦       ic_launcher.webp
+¦   ¦   ¦   ¦           ¦       ic_launcher_foreground.webp
+¦   ¦   ¦   ¦           ¦       ic_launcher_round.webp
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---mipmap-xxxhdpi-v4
+¦   ¦   ¦   ¦           ¦       ic_launcher.webp
+¦   ¦   ¦   ¦           ¦       ic_launcher_foreground.webp
+¦   ¦   ¦   ¦           ¦       ic_launcher_round.webp
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---values
+¦   ¦   ¦   ¦                   values.xml
+¦   ¦   ¦   ¦                   
+¦   ¦   ¦   +---project_dex_archive
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   +---dexBuilderDebug
+¦   ¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦   ¦           ¦   f3cd5a8994692c63f0e21c6c7db34b88e3956d1b476e15cb857e3c6778cef805_0.jar
+¦   ¦   ¦   ¦   ¦           ¦   f3cd5a8994692c63f0e21c6c7db34b88e3956d1b476e15cb857e3c6778cef805_1.jar
+¦   ¦   ¦   ¦   ¦           ¦   f3cd5a8994692c63f0e21c6c7db34b88e3956d1b476e15cb857e3c6778cef805_2.jar
+¦   ¦   ¦   ¦   ¦           ¦   f3cd5a8994692c63f0e21c6c7db34b88e3956d1b476e15cb857e3c6778cef805_3.jar
+¦   ¦   ¦   ¦   ¦           ¦   
+¦   ¦   ¦   ¦   ¦           +---com
+¦   ¦   ¦   ¦   ¦               +---example
+¦   ¦   ¦   ¦   ¦                   +---amtccloud
+¦   ¦   ¦   ¦   ¦                           BootReceiver.dex
+¦   ¦   ¦   ¦   ¦                           BrowseErrorActivity$Companion.dex
+¦   ¦   ¦   ¦   ¦                           BrowseErrorActivity$SpinnerFragment.dex
+¦   ¦   ¦   ¦   ¦                           BrowseErrorActivity.dex
+¦   ¦   ¦   ¦   ¦                           CardPresenter$Companion.dex
+¦   ¦   ¦   ¦   ¦                           CardPresenter$onCreateViewHolder$cardView$1.dex
+¦   ¦   ¦   ¦   ¦                           CardPresenter.dex
+¦   ¦   ¦   ¦   ¦                           DetailsActivity$Companion.dex
+¦   ¦   ¦   ¦   ¦                           DetailsActivity.dex
+¦   ¦   ¦   ¦   ¦                           DetailsDescriptionPresenter.dex
+¦   ¦   ¦   ¦   ¦                           ErrorFragment$Companion.dex
+¦   ¦   ¦   ¦   ¦                           ErrorFragment.dex
+¦   ¦   ¦   ¦   ¦                           MainActivity.dex
+¦   ¦   ¦   ¦   ¦                           MainFragment$loadImage$1.dex
+¦   ¦   ¦   ¦   ¦                           MainFragment.dex
+¦   ¦   ¦   ¦   ¦                           Movie$CREATOR.dex
+¦   ¦   ¦   ¦   ¦                           Movie.dex
+¦   ¦   ¦   ¦   ¦                           MovieList$list$2.dex
+¦   ¦   ¦   ¦   ¦                           MovieList.dex
+¦   ¦   ¦   ¦   ¦                           PlaybackActivity.dex
+¦   ¦   ¦   ¦   ¦                           PlaybackVideoFragment$initializePlayer$1$1.dex
+¦   ¦   ¦   ¦   ¦                           PlaybackVideoFragment.dex
+¦   ¦   ¦   ¦   ¦                           VideoDetailsFragment$Companion.dex
+¦   ¦   ¦   ¦   ¦                           VideoDetailsFragment$initializeBackground$1.dex
+¦   ¦   ¦   ¦   ¦                           VideoDetailsFragment$ItemViewClickedListener.dex
+¦   ¦   ¦   ¦   ¦                           VideoDetailsFragment$setupDetailsOverviewRow$1.dex
+¦   ¦   ¦   ¦   ¦                           VideoDetailsFragment.dex
+¦   ¦   ¦   ¦   ¦                           VideoPlayerFragment$initializePlayer$1$1.dex
+¦   ¦   ¦   ¦   ¦                           VideoPlayerFragment$setupWebView$2.dex
+¦   ¦   ¦   ¦   ¦                           VideoPlayerFragment.dex
+¦   ¦   ¦   ¦   ¦                           
+¦   ¦   ¦   ¦   +---debugAndroidTest
+¦   ¦   ¦   ¦       +---dexBuilderDebugAndroidTest
+¦   ¦   ¦   ¦           +---out
+¦   ¦   ¦   ¦                   28a3b52fd806f7a438246dc22eef530eaad7ca9f5556e7d33d8dba776bbf147e_2.jar
+¦   ¦   ¦   ¦                   
+¦   ¦   ¦   +---runtime_symbol_list
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   +---processDebugResources
+¦   ¦   ¦   ¦   ¦           R.txt
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---debugAndroidTest
+¦   ¦   ¦   ¦       +---processDebugAndroidTestResources
+¦   ¦   ¦   ¦               R.txt
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---signing_config_versions
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   +---writeDebugSigningConfigVersions
+¦   ¦   ¦   ¦   ¦           signing-config-versions.json
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---debugAndroidTest
+¦   ¦   ¦   ¦       +---writeDebugAndroidTestSigningConfigVersions
+¦   ¦   ¦   ¦               signing-config-versions.json
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---source_set_path_map
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   +---mapDebugSourceSetPaths
+¦   ¦   ¦   ¦   ¦           file-map.txt
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---debugAndroidTest
+¦   ¦   ¦   ¦       +---mapDebugAndroidTestSourceSetPaths
+¦   ¦   ¦   ¦               file-map.txt
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---stable_resource_ids_file
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   +---processDebugResources
+¦   ¦   ¦   ¦   ¦           stableIds.txt
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---debugAndroidTest
+¦   ¦   ¦   ¦       +---processDebugAndroidTestResources
+¦   ¦   ¦   ¦               stableIds.txt
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---sub_project_dex_archive
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   +---dexBuilderDebug
+¦   ¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦   +---debugAndroidTest
+¦   ¦   ¦   ¦       +---dexBuilderDebugAndroidTest
+¦   ¦   ¦   ¦           +---out
+¦   ¦   ¦   +---symbol_list_with_package_name
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   +---processDebugResources
+¦   ¦   ¦   ¦   ¦           package-aware-r.txt
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---debugAndroidTest
+¦   ¦   ¦   ¦       +---processDebugAndroidTestResources
+¦   ¦   ¦   +---tmp
+¦   ¦   ¦   ¦   +---manifest
+¦   ¦   ¦   ¦       +---androidTest
+¦   ¦   ¦   ¦           +---debug
+¦   ¦   ¦   +---validate_signing_config
+¦   ¦   ¦       +---debug
+¦   ¦   ¦       ¦   +---validateSigningDebug
+¦   ¦   ¦       +---debugAndroidTest
+¦   ¦   ¦           +---validateSigningDebugAndroidTest
+¦   ¦   +---kotlin
+¦   ¦   ¦   +---compileDebugKotlin
+¦   ¦   ¦       +---cacheable
+¦   ¦   ¦       ¦   ¦   last-build.bin
+¦   ¦   ¦       ¦   ¦   
+¦   ¦   ¦       ¦   +---caches-jvm
+¦   ¦   ¦       ¦       +---inputs
+¦   ¦   ¦       ¦       ¦       source-to-output.tab
+¦   ¦   ¦       ¦       ¦       source-to-output.tab.keystream
+¦   ¦   ¦       ¦       ¦       source-to-output.tab.keystream.len
+¦   ¦   ¦       ¦       ¦       source-to-output.tab.len
+¦   ¦   ¦       ¦       ¦       source-to-output.tab.values.at
+¦   ¦   ¦       ¦       ¦       source-to-output.tab_i
+¦   ¦   ¦       ¦       ¦       source-to-output.tab_i.len
+¦   ¦   ¦       ¦       ¦       
+¦   ¦   ¦       ¦       +---jvm
+¦   ¦   ¦       ¦       ¦   +---kotlin
+¦   ¦   ¦       ¦       ¦           class-attributes.tab
+¦   ¦   ¦       ¦       ¦           class-attributes.tab.keystream
+¦   ¦   ¦       ¦       ¦           class-attributes.tab.keystream.len
+¦   ¦   ¦       ¦       ¦           class-attributes.tab.len
+¦   ¦   ¦       ¦       ¦           class-attributes.tab.values.at
+¦   ¦   ¦       ¦       ¦           class-attributes.tab_i
+¦   ¦   ¦       ¦       ¦           class-attributes.tab_i.len
+¦   ¦   ¦       ¦       ¦           class-fq-name-to-source.tab
+¦   ¦   ¦       ¦       ¦           class-fq-name-to-source.tab.keystream
+¦   ¦   ¦       ¦       ¦           class-fq-name-to-source.tab.keystream.len
+¦   ¦   ¦       ¦       ¦           class-fq-name-to-source.tab.len
+¦   ¦   ¦       ¦       ¦           class-fq-name-to-source.tab.values.at
+¦   ¦   ¦       ¦       ¦           class-fq-name-to-source.tab_i
+¦   ¦   ¦       ¦       ¦           class-fq-name-to-source.tab_i.len
+¦   ¦   ¦       ¦       ¦           constants.tab
+¦   ¦   ¦       ¦       ¦           constants.tab.keystream
+¦   ¦   ¦       ¦       ¦           constants.tab.keystream.len
+¦   ¦   ¦       ¦       ¦           constants.tab.len
+¦   ¦   ¦       ¦       ¦           constants.tab.values.at
+¦   ¦   ¦       ¦       ¦           constants.tab_i
+¦   ¦   ¦       ¦       ¦           constants.tab_i.len
+¦   ¦   ¦       ¦       ¦           internal-name-to-source.tab
+¦   ¦   ¦       ¦       ¦           internal-name-to-source.tab.keystream
+¦   ¦   ¦       ¦       ¦           internal-name-to-source.tab.keystream.len
+¦   ¦   ¦       ¦       ¦           internal-name-to-source.tab.len
+¦   ¦   ¦       ¦       ¦           internal-name-to-source.tab.values.at
+¦   ¦   ¦       ¦       ¦           internal-name-to-source.tab_i
+¦   ¦   ¦       ¦       ¦           internal-name-to-source.tab_i.len
+¦   ¦   ¦       ¦       ¦           proto.tab
+¦   ¦   ¦       ¦       ¦           proto.tab.keystream
+¦   ¦   ¦       ¦       ¦           proto.tab.keystream.len
+¦   ¦   ¦       ¦       ¦           proto.tab.len
+¦   ¦   ¦       ¦       ¦           proto.tab.values.at
+¦   ¦   ¦       ¦       ¦           proto.tab_i
+¦   ¦   ¦       ¦       ¦           proto.tab_i.len
+¦   ¦   ¦       ¦       ¦           source-to-classes.tab
+¦   ¦   ¦       ¦       ¦           source-to-classes.tab.keystream
+¦   ¦   ¦       ¦       ¦           source-to-classes.tab.keystream.len
+¦   ¦   ¦       ¦       ¦           source-to-classes.tab.len
+¦   ¦   ¦       ¦       ¦           source-to-classes.tab.values.at
+¦   ¦   ¦       ¦       ¦           source-to-classes.tab_i
+¦   ¦   ¦       ¦       ¦           source-to-classes.tab_i.len
+¦   ¦   ¦       ¦       ¦           subtypes.tab
+¦   ¦   ¦       ¦       ¦           subtypes.tab.keystream
+¦   ¦   ¦       ¦       ¦           subtypes.tab.keystream.len
+¦   ¦   ¦       ¦       ¦           subtypes.tab.len
+¦   ¦   ¦       ¦       ¦           subtypes.tab.values.at
+¦   ¦   ¦       ¦       ¦           subtypes.tab_i
+¦   ¦   ¦       ¦       ¦           subtypes.tab_i.len
+¦   ¦   ¦       ¦       ¦           supertypes.tab
+¦   ¦   ¦       ¦       ¦           supertypes.tab.keystream
+¦   ¦   ¦       ¦       ¦           supertypes.tab.keystream.len
+¦   ¦   ¦       ¦       ¦           supertypes.tab.len
+¦   ¦   ¦       ¦       ¦           supertypes.tab.values.at
+¦   ¦   ¦       ¦       ¦           supertypes.tab_i
+¦   ¦   ¦       ¦       ¦           supertypes.tab_i.len
+¦   ¦   ¦       ¦       ¦           
+¦   ¦   ¦       ¦       +---lookups
+¦   ¦   ¦       ¦               counters.tab
+¦   ¦   ¦       ¦               file-to-id.tab
+¦   ¦   ¦       ¦               file-to-id.tab.keystream
+¦   ¦   ¦       ¦               file-to-id.tab.keystream.len
+¦   ¦   ¦       ¦               file-to-id.tab.len
+¦   ¦   ¦       ¦               file-to-id.tab.values.at
+¦   ¦   ¦       ¦               file-to-id.tab_i
+¦   ¦   ¦       ¦               file-to-id.tab_i.len
+¦   ¦   ¦       ¦               id-to-file.tab
+¦   ¦   ¦       ¦               id-to-file.tab.keystream
+¦   ¦   ¦       ¦               id-to-file.tab.keystream.len
+¦   ¦   ¦       ¦               id-to-file.tab.len
+¦   ¦   ¦       ¦               id-to-file.tab.values.at
+¦   ¦   ¦       ¦               id-to-file.tab_i
+¦   ¦   ¦       ¦               id-to-file.tab_i.len
+¦   ¦   ¦       ¦               lookups.tab
+¦   ¦   ¦       ¦               lookups.tab.keystream
+¦   ¦   ¦       ¦               lookups.tab.keystream.len
+¦   ¦   ¦       ¦               lookups.tab.len
+¦   ¦   ¦       ¦               lookups.tab.values.at
+¦   ¦   ¦       ¦               lookups.tab_i
+¦   ¦   ¦       ¦               lookups.tab_i.len
+¦   ¦   ¦       ¦               
+¦   ¦   ¦       +---classpath-snapshot
+¦   ¦   ¦       ¦       shrunk-classpath-snapshot.bin
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---local-state
+¦   ¦   ¦               build-history.bin
+¦   ¦   ¦               
+¦   ¦   +---outputs
+¦   ¦   ¦   +---apk
+¦   ¦   ¦   ¦   +---androidTest
+¦   ¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦           app-debug-androidTest.apk
+¦   ¦   ¦   ¦   ¦           output-metadata.json
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           app-debug.apk
+¦   ¦   ¦   ¦           output-metadata.json
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---logs
+¦   ¦   ¦           manifest-merger-debug-report.txt
+¦   ¦   ¦           
+¦   ¦   +---tmp
+¦   ¦       +---kotlin-classes
+¦   ¦           +---debug
+¦   ¦               +---com
+¦   ¦               ¦   +---example
+¦   ¦               ¦       +---amtccloud
+¦   ¦               ¦               BootReceiver.class
+¦   ¦               ¦               BrowseErrorActivity$Companion.class
+¦   ¦               ¦               BrowseErrorActivity$SpinnerFragment.class
+¦   ¦               ¦               BrowseErrorActivity.class
+¦   ¦               ¦               CardPresenter$Companion.class
+¦   ¦               ¦               CardPresenter$onCreateViewHolder$cardView$1.class
+¦   ¦               ¦               CardPresenter.class
+¦   ¦               ¦               DetailsActivity$Companion.class
+¦   ¦               ¦               DetailsActivity.class
+¦   ¦               ¦               DetailsDescriptionPresenter.class
+¦   ¦               ¦               ErrorFragment$Companion.class
+¦   ¦               ¦               ErrorFragment.class
+¦   ¦               ¦               MainActivity.class
+¦   ¦               ¦               MainFragment$loadImage$1.class
+¦   ¦               ¦               MainFragment.class
+¦   ¦               ¦               Movie$CREATOR.class
+¦   ¦               ¦               Movie.class
+¦   ¦               ¦               MovieList$list$2.class
+¦   ¦               ¦               MovieList.class
+¦   ¦               ¦               PlaybackActivity.class
+¦   ¦               ¦               PlaybackVideoFragment$initializePlayer$1$1.class
+¦   ¦               ¦               PlaybackVideoFragment.class
+¦   ¦               ¦               VideoDetailsFragment$Companion.class
+¦   ¦               ¦               VideoDetailsFragment$initializeBackground$1.class
+¦   ¦               ¦               VideoDetailsFragment$ItemViewClickedListener.class
+¦   ¦               ¦               VideoDetailsFragment$setupDetailsOverviewRow$1.class
+¦   ¦               ¦               VideoDetailsFragment.class
+¦   ¦               ¦               VideoPlayerFragment$initializePlayer$1$1.class
+¦   ¦               ¦               VideoPlayerFragment$setupWebView$2.class
+¦   ¦               ¦               VideoPlayerFragment.class
+¦   ¦               ¦               
+¦   ¦               +---META-INF
+¦   ¦                       app_debug.kotlin_module
+¦   ¦                       
+¦   +---src
+¦       +---main
+¦           ¦   AndroidManifest.xml
+¦           ¦   ic_launcher-playstore.png
+¦           ¦   
+¦           +---java
+¦           ¦   +---com
+¦           ¦       +---example
+¦           ¦           +---amtccloud
+¦           ¦                   BootReceiver.kt
+¦           ¦                   BrowseErrorActivity.kt
+¦           ¦                   CardPresenter.kt
+¦           ¦                   DetailsActivity.kt
+¦           ¦                   DetailsDescriptionPresenter.kt
+¦           ¦                   ErrorFragment.kt
+¦           ¦                   MainActivity.kt
+¦           ¦                   MainFragment.kt
+¦           ¦                   Movie.kt
+¦           ¦                   MovieList.kt
+¦           ¦                   PlaybackActivity.kt
+¦           ¦                   PlaybackVideoFragment.kt
+¦           ¦                   VideoDetailsFragment.kt
+¦           ¦                   VideoPlayerFragment.kt
+¦           ¦                   
+¦           +---res
+¦               +---drawable
+¦               ¦       app_icon_your_company.png
+¦               ¦       default_background.xml
+¦               ¦       ic_launcher_background.xml
+¦               ¦       movie.png
+¦               ¦       
+¦               +---layout
+¦               ¦       activity_details.xml
+¦               ¦       activity_main.xml
+¦               ¦       fragment_playback_video.xml
+¦               ¦       
+¦               +---mipmap-anydpi-v26
+¦               ¦       ic_launcher.xml
+¦               ¦       ic_launcher_round.xml
+¦               ¦       
+¦               +---mipmap-hdpi
+¦               ¦       ic_launcher.webp
+¦               ¦       ic_launcher_foreground.webp
+¦               ¦       ic_launcher_round.webp
+¦               ¦       
+¦               +---mipmap-mdpi
+¦               ¦       ic_launcher.webp
+¦               ¦       ic_launcher_foreground.webp
+¦               ¦       ic_launcher_round.webp
+¦               ¦       
+¦               +---mipmap-xhdpi
+¦               ¦       ic_launcher.webp
+¦               ¦       ic_launcher_foreground.webp
+¦               ¦       ic_launcher_round.webp
+¦               ¦       
+¦               +---mipmap-xxhdpi
+¦               ¦       ic_launcher.webp
+¦               ¦       ic_launcher_foreground.webp
+¦               ¦       ic_launcher_round.webp
+¦               ¦       
+¦               +---mipmap-xxxhdpi
+¦               ¦       ic_launcher.webp
+¦               ¦       ic_launcher_foreground.webp
+¦               ¦       ic_launcher_round.webp
+¦               ¦       
+¦               +---values
+¦                       colors.xml
+¦                       strings.xml
+¦                       themes.xml
+¦                       
++---gradle
+    ¦   libs.versions.toml
+    ¦   
+    +---wrapper
+            gradle-wrapper.jar
+            gradle-wrapper.properties
+            
